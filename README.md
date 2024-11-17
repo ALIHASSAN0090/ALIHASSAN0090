@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan</h1>
-<h3 align="center">A passionate Backend developer from Pakistan</h3>
+<h3 align="center">A Passionate Backend Developer From Pakistan</h3>
 <div align="center" style="margin-top: 10px;">
   <img align="center" alt="coding" src="https://www.ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
 </div>
