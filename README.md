@@ -37,7 +37,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihassan0090&" alt="alihassan0090" /></p>
 
 
-![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=Ali-Hassan090&theme=dark)
+
 
 
 
