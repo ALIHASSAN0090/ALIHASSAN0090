@@ -14,10 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Microservices , grpc**
-
-- 👨‍💻My Portfolio [https://portfolio-ruddy-sigma-39.vercel.app/](https://portfolio-ruddy-sigma-39.vercel.app/)
-
+- 🌱 I’m currently learning **Microservices , Grpc , devops**
 
 - 💬 Ask me about **Golang , Javascript , C++ , Deployments , CI/CD pipelines**
 
