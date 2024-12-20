@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I’m currently learning **Microservices , Grpc , devops**
+- 🌱 I’m currently learning **Microservices , grpc , devops**
 
 - 💬 Ask me about **Golang , Javascript , C++ , Deployments , CI/CD pipelines**
 
