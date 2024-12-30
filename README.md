@@ -14,9 +14,9 @@
 
 
 
-- 🌱 I’m currently learning **Microservices , grpc , devops**
+- 🌱 Good understanding of **Microservice , Monolithic Architecture and Deployments**
 
-- 💬 Ask me about **Golang , Javascript , C++ , Deployments , CI/CD pipelines**
+- 💬 Ask me about **Golang , Nodejs , C++ , Deployments , CI/CD pipelines**
 
 - 📫 How to reach me **alihassankhan285@gmail.com**
 
